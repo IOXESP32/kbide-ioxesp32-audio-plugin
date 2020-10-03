@@ -10,7 +10,6 @@
   "email": "max30012540@hotmail.com",
   "url": "https://docs.ioxesp32.com/",
   "version": "1.0.1",
-  "board" : "",
   "platform": ["arduino-esp32"],
   "image" : "/static/cover.jpg"
 }
